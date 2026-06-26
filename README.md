@@ -42,7 +42,7 @@ Edit `backend/.env` (set DB password and a long random JWT_SECRET):
 ```
 PORT=5000
 DB_USER=postgres
-DB_PASSWORD=yourpassword
+DB_PASSWORD=yourpassword(postgres123)
 DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=employee_management
